@@ -1,2 +1,0 @@
-# kryptofarm
-Begin app
